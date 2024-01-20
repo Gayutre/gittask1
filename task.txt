@@ -2,4 +2,5 @@ v =4
 b = 5
 
 print(v+h)
+output : 9
 
